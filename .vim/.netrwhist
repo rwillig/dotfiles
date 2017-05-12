@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/ray/git/chabad/coci/front-end'
+let g:netrw_dirhist_2='/Users/ray/git/chabad/coci/ui/src/ui'
+let g:netrw_dirhist_3='/Users/ray/git/geo-cache'
+let g:netrw_dirhist_4='/Users/ray/git/chabad/coci/ui/src/ui/navigation'
+let g:netrw_dirhist_5='/Users/ray/git/rowtr/ui/src/co'
+let g:netrw_dirhist_6='/Users/ray/git/chabad/coci/form'
+let g:netrw_dirhist_7='/Users/ray/git/lec/front-end'
+let g:netrw_dirhist_8='/Users/ray/git/google-maps-web-api'
+let g:netrw_dirhist_9='/Users/ray/git/rowtr/brochure'
